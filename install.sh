@@ -1,4 +1,5 @@
 #!/bin/bash
+
 clear
 line="\e[1;31m[*]\e[0m"
 
